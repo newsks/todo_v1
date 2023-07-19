@@ -34,8 +34,8 @@ body {
 }
 
 #root {
-  width: 100vw;
-  height: 60%;
+  width: 30%;
+  height: 70%;
   max-width: 500px;
   background-color: var(--color-bg-dark);
   overflow: hidden;
