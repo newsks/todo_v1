@@ -22,7 +22,7 @@
     height: 26px;
     background-color: var(--color-grey);
     border-radius: 100%;
-    transition: all 150rem ease-out;
+    transition: all 150ms ease-out;
 }
 
 .icon:hover {
