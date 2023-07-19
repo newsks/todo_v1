@@ -17,6 +17,10 @@
     font-size: 1.5rem;
 }
 
+.text.completed {
+    text-decoration: line-through;
+}
+
 .icon{
     width: 26px;
     height: 26px;

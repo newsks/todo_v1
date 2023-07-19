@@ -19,7 +19,7 @@ export default function Todo({ todo, onUpdate, onDelete }) {
             checked={status === 'completed'}
             onChange={handleChange}
           />
-          <label htmlFor={id} className={styles.text}>{text}</label>
+          <label htmlFor={id} className={`${styles.text} ${status === 'completed' && styles.completed}`}>{text}</label>
           <span className={styles.icon}>
               <button onClick={handleDelete} className={styles.button}>
                 <FaTrashAlt/>
