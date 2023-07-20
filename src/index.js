@@ -11,6 +11,8 @@ root.render(
   </React.StrictMode>
 );
 
+// copyright © Shin Soo Kyeong 
+// React Todo 프로젝트 2023.07
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals

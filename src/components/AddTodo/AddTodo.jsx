@@ -21,6 +21,7 @@ export default function AddTodo({ onAdd }) {
         onChange={handleChange}
       />
       <button className={styles.button}>Add</button>
+      
     </form>
 }
 
